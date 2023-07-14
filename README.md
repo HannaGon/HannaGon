@@ -1,7 +1,8 @@
 ### Hello there 👋
 
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently coding in Javascript
+- 🐍 Python is next
 - 😄 Pronouns: She/Her
 
 <div align="center">
